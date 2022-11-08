@@ -604,4 +604,4 @@ setInterval(() => {
         }
     }
 }, 1)
-client.login("MTAwNjY2NjgzOTEwNDk0NjI5Nw.G9oudD.BKX0yySRo69pWy6DN9Qq7yMdfUpBR1H1GwAwvY");
+client.login("token");
